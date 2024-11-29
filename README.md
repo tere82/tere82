@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tere82
 - 👀 I’m interested in Data Science and Prediction Models
-- 🌱 I’m currently learning Philosophy and Artificial Intelligece  @Sapienza
+- 🌱 I’m currently learning Philosophy and Artificial Intelligence  @Sapienza
 - 💞️ I’m looking to collaborate on projects on AI
 - 📫 How to reach me terebettini82@gmail.com
 -
